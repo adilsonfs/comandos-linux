@@ -7,7 +7,6 @@ Anotações feitas por um iniciante:
 “clear” : limpa a tela toda. Ou “ctrl+L”.
 
 Teclas para cima ou para baixo: mostra as últimas coisas escritas.
-===============================================================================================================================================================================================================================================================================================================================
 
 “sudo apt update”: sudo (super user do) apt (advanced package tool) update: faz update como usuário root. Atualiza a lista de repositórios do sistema. O sistema vai verificar todos repositórios e informar se podem ser atualizados.  “man apt”: man (manual): mostra o manual de qualquer comando. Nesse caso manual do apt.
 
